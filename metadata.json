@@ -1,0 +1,6 @@
+{
+  "name": "ChromaDiaries – Author Selection Letter Generator",
+  "description": "Recreate and generate official ChromaDiaries Author Selection Letter posters with custom author name, writing title, assessment scores, and editor review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
